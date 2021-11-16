@@ -1,0 +1,12 @@
+---
+title: "Project Website"
+author: "Haub"
+date: "11/11/2021"
+output: html_document
+---
+
+# Chris Haub Projects
+## About Me
+### Souther Methodist University M.S. Data Science student
+
+The other tabs represent work/analysis that I have completed. Please check them out!
